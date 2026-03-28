@@ -12,7 +12,7 @@ budget performance, and procurement equity.
 Analysis of adopted vs. actual spending for DOE, ACS, and DSS across FY2020–2024 
 using OMB financial plan data. Examines budget variance patterns and relationship 
 to service outcomes including graduation rates and shelter census.
-[View Dashboard]((https://public.tableau.com/views/NYCAgencyBudgetAnalysis/CombinedDashboards?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View Dashboard](https://public.tableau.com/views/NYCAgencyBudgetAnalysis/CombinedDashboards?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **NYC Agency Procurement and M/WBE Equity Analysis**
 Analysis of contract award patterns across DOE, ACS, and DSS using NYC Comptroller 
